@@ -1,6 +1,6 @@
-2b6d8d8ba967b2bc5d8f14f8984a238a *DESCRIPTION
-6fd50e217d74ef60f2cbd0d7775b133a *NAMESPACE
-55dd83862d1b25d9aa4b49b562d439e9 *R/PatPro1.R
+857a11af7ab6610c788649d482517eda *DESCRIPTION
+fc51bfff436e7598642092476d241389 *NAMESPACE
+cc6719f2548390fb3544b81e6b164551 *R/PatPro1.R
 1bc511f2111aeedd09ec4b34ceec65f7 *data/PatProAlphaDiv.RData
 f288e83fd15e1826fa6763d20973c4f0 *data/PatProBacLoad.RData
 d29590445bfd55e55ef1526482f0a384 *data/PatProMap.RData
@@ -14,7 +14,7 @@ b1b77bb686fbbe7356626d6b01adfb30 *inst/extdata/ExampleQiimeOtuTrauma.tsv
 d5248da2ef2c96633de9d200ba51d3a9 *man/PatProBacLoad.Rd
 e2b68a78aede195c899bec871aeb1a68 *man/PatProMap.Rd
 07f2495de344955a84c40e4547e5345b *man/PatProOTU.Rd
-6675656a4214bc0fe0eb0b09a2a84d80 *man/mergeMapMetaData.Rd
+e56e4fc5fc9d80dac4827149cc586c3c *man/mergeMapMetaData.Rd
 62031fbcb9fb7fb7f208ea41bd9063f8 *man/normalizeAlphaDiv.Rd
 39da510e99121dc8a6aa82df229218c9 *man/patientMean.Rd
 0b4fae3bdc4e21b4c5668f86bc6c7112 *man/patproPlotThree.Rd
